@@ -10,15 +10,18 @@ For the past ~2 years, I've been employing many of these tools to design novel c
 
 
 ---
-<div align=center> 
+<div align="center">
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishenn&theme=radical)](https://github.com/chrishenn/github-readme-stats)
   
 </div>
+
 ---
 
-<div align=center> 
+<div align="center">
+  
 🧰 Toolbox
+  
   &ensp;
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" width="50" height="50"/> 
