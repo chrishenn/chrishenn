@@ -1,4 +1,14 @@
-### I'm Chris Henn. 
+<h1 align="center">I'm Chris Henn</h1>
+<h2 align="center">chenn@alum.mit.edu</h2>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/christianhenn1000/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://angel.co/u/christian-henn">
+    <img src="https://img.shields.io/badge/angel.co-green?style=flat-square&logo=angellist&logoColor=white" alt="angel.co Badge"/>
+  </a>
+</div>
 
 I'm an MIT alum (grad 2020) with ~2 years' experience in machine learning research at MIT's Center for Brains, Minds, and Machines. I also have professional experience in performance software design and engineering, data modeling and analysis, mechanical systems simulation, and electronic systems fabrication. 
 
