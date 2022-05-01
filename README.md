@@ -1,4 +1,4 @@
-<h3 align="center">Hi. I'm Chris Henn</h3>
+<h3 align="center">Hi. I'm Chris Henn.</h3>
 <h4 align="center">chenn@alum.mit.edu</h4>
 
 <div id="badges" align="center">
