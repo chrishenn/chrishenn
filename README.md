@@ -12,7 +12,11 @@
 
 ---
 
-### About Me:
+<div align="center">
+  
+  ### About Me
+  
+</div>
 
 I'm an MIT alum (grad 2020) with ~2 years' experience in machine learning research at MIT's Center for Brains, Minds, and Machines. I also have professional experience in performance software design and engineering, data modeling and analysis, mechanical systems simulation, and electronic systems fabrication. 
 
@@ -22,16 +26,24 @@ In that pursuit, I've written: webclient code in Javascript; GPU libraries in CU
 
 For the past ~2 years, I've been employing many of these tools to design novel computer vision model architectures - and investigate hypotheses about the fundamental structure of image data (and by extension, how we model the structure of data in general). 
 
-
 ---
+
 <div align="center">
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishenn&theme=radical)](https://github.com/chrishenn/github-readme-stats)
+  ### Stats
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishenn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrishenn&theme=dark&background=000000)](https://git.io/streak-stats)
   
 </div>
 
-<div align="center">
+---
+
+<div align="center"> 
   
+  ### Tools
+    
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> 
 <img src="https://github.com/chrishenn/torch_cuda_example_cmake/blob/main/doc/images/comp.jpg?raw=true" width="80" height="50"/> 
@@ -47,8 +59,7 @@ For the past ~2 years, I've been employing many of these tools to design novel c
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" width="50" height="50"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/> 
-   
-      
+         
 </div>
 
----
+
