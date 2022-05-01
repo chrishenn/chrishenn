@@ -11,8 +11,7 @@ For the past ~2 years, I've been employing many of these tools to design novel c
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrishenn&theme=radical)](https://github.com/chrishenn/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrishenn&theme=radical)](https://github.com/chrishenn/github-readme-stats)
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" width="50" height="50"/> 
+
