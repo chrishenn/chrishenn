@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/christianhenn1000/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <p>   </p>
+  <div style="width:200px;float: center;">
   <a href="https://angel.co/u/christian-henn">
     <img src="https://img.shields.io/badge/angel.co-green?style=flat-square&logo=angellist&logoColor=white" alt="angel.co Badge"/>
   </a>
