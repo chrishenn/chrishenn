@@ -1,22 +1,31 @@
 <h3 align="center">Chris Henn</h3>
 <h4 align="center">chenn@alum.mit.edu</h4>
+
 <div align="center">
-  <div>Use computers + statistics to turn money into products. </div>
-  <div id="blank"></div>
+  <div>
+    Use computers + statistics to turn money into products.
+  </div>
 </div>
 
-<div id="badges">  
+<div style="height: 24px;"></div>
+
+<div id="badges" style="display: flex; justify-content: center; gap: 12px;">
   <div id="badge0">
     <a href="https://www.linkedin.com/in/christianhenn1000/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img
+        src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"
+        alt="LinkedIn Badge"
+      />
     </a>
   </div>
   <div id="badge1">
-    <a href="https://angel.co/u/christian-henn">
-      <img src="https://img.shields.io/badge/angel.co-green?style=flat-square&logo=angellist&logoColor=white" alt="angel.co Badge"/>
+    <a href="https://wellfound.com/u/christian-henn">
+      <img
+        src="https://img.shields.io/badge/wellfound.com-green?style=flat-square&logo=angellist&logoColor=white"
+        alt="angel.co Badge"
+      />
     </a>
   </div>
-  <div id="blank"></div>
 </div>
 
 ---
