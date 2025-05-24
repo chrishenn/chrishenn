@@ -2,21 +2,21 @@
 <h4 align="center">chenn@alum.mit.edu</h4>
 <div align="center">
   <div>Use computers + statistics to turn money into products. </div>
-  <div></div>
+  <div id="blank"></div>
 </div>
 
-<div id="badges" align="center">  
-  <div>
+<div id="badges">  
+  <div id="badge0">
     <a href="https://www.linkedin.com/in/christianhenn1000/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <div>
+  <div id="badge1">
     <a href="https://angel.co/u/christian-henn">
       <img src="https://img.shields.io/badge/angel.co-green?style=flat-square&logo=angellist&logoColor=white" alt="angel.co Badge"/>
     </a>
   </div>
-  <div></div>
+  <div id="blank"></div>
 </div>
 
 ---
