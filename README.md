@@ -1,11 +1,15 @@
 <h3 align="center">Chris Henn</h3>
 <h4 align="center">chenn@alum.mit.edu</h4>
 
+---
+
 <div align="center">
   <div>
     Use computers + statistics to turn money into products.
   </div>
 </div>
+
+---
 
 <div style="height: 24px;"></div>
 
