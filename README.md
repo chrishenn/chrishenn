@@ -1,17 +1,6 @@
-<h3 align="center">Chris Henn</h3>
-<h4 align="center">chenn@alum.mit.edu</h4>
-
----
-
-<div align="center">
-  <div>
-    Use computers + statistics to turn money into products.
-  </div>
-</div>
-
----
-
-<div style="height: 24px;"></div>
+<h2 align="center">Chris Henn</h3>
+<h3 align="center">chenn@alum.mit.edu</h4>
+<h4 align="center">Use computers + statistics to turn money into products</h4>
 
 <div id="badges" style="display: flex; justify-content: center; gap: 12px;">
   <div id="badge0">
