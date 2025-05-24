@@ -1,8 +1,8 @@
 <h2 align="center">Chris Henn</h3>
-<h3 align="center">chenn@alum.mit.edu</h4>
+<h4 align="center">chenn@alum.mit.edu</h4>
 <h4 align="center">Use computers + statistics to turn money into products</h4>
 
-<div id="badges" style="display: flex; justify-content: center; gap: 12px;">
+<div id="badges" align="center" style="display: flex; justify-content: center; gap: 12px;">
   <div id="badge0">
     <a href="https://www.linkedin.com/in/christianhenn1000/">
       <img
