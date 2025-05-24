@@ -2,6 +2,7 @@
 <h4 align="center">chenn@alum.mit.edu</h4>
 <div align="center">
   Use computers + statistics to turn money into products.
+  
 </div>
 
 <div id="badges" align="center">
