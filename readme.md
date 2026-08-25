@@ -1,10 +1,12 @@
 <p align="center"><strong>turning data into products since 2020</strong></p>
 
 <div align="center">
-  <a href="mailto:chenn@alum.mit.edu"><img src="https://img.shields.io/badge/email-purple" height="50" title="email" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/christianhenn1000/"><img src="https://img.shields.io/badge/linkedin-purple" height="50" title="linkedin" alt="LinkedIn"/></a>
-  <a href="https://wellfound.com/u/christian-henn"><img src="https://img.shields.io/badge/wellfound-purple" height="50" title="wellfound" alt="wellfound"/></a>
+  <a href="mailto:chenn@alum.mit.edu"><img src="https://img.shields.io/badge/email-purple" title="email" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/christianhenn1000/"><img src="https://img.shields.io/badge/linkedin-purple" title="linkedin" alt="LinkedIn"/></a>
+  <a href="https://wellfound.com/u/christian-henn"><img src="https://img.shields.io/badge/wellfound-purple" title="wellfound" alt="wellfound"/></a>
 </div>
+
+<br>
 
 <div align="center">
     <img src="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus" title="github stats" alt="github stats"/>
