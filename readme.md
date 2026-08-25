@@ -1,22 +1,14 @@
 <p align="center"><strong>turning data into products since 2020</strong></p>
 
 <div align="center">
-  <a href="mailto:chenn@alum.mit.edu"><img src="https://img.shields.io/badge/email-purple" height="40" title="email" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/christianhenn1000/"><img src="https://img.shields.io/badge/linkedin-purple" height="40" title="linkedin" alt="LinkedIn"/></a>
-  <a href="https://wellfound.com/u/christian-henn"><img src="https://img.shields.io/badge/wellfound-purple" height="40" title="wellfound" alt="wellfound"/></a>
+  <a href="mailto:chenn@alum.mit.edu"><img src="https://img.shields.io/badge/email-purple" height="50" title="email" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/christianhenn1000/"><img src="https://img.shields.io/badge/linkedin-purple" height="50" title="linkedin" alt="LinkedIn"/></a>
+  <a href="https://wellfound.com/u/christian-henn"><img src="https://img.shields.io/badge/wellfound-purple" height="50" title="wellfound" alt="wellfound"/></a>
 </div>
 
-<!--<div align="center">-->
-<!--    <img src="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus"/>-->
-<!--</div>-->
-
-<p align="center">
-  <picture>
-    <source srcset="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus#gh-dark-mode-only" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://ghstat.chenn.dev/api/chrishenn?theme=paper&widgets=focus,languages&order=languages,focus#gh-light-mode-only" media="(prefers-color-scheme: light)"/>
-    <img src="https://ghstat.chenn.dev/api/chrishenn" title="github stats" alt="github stats"/>
-  </picture>
-</p>
+<div align="center">
+    <img src="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus" title="github stats" alt="github stats"/>
+</div>
 
 <div align="center">
   <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/></a>
