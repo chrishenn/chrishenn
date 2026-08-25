@@ -1,29 +1,14 @@
 <p align="center"><strong>turning data into products since 2020</strong></p>
 
-<p align="center">
-  <a href="mailto:chenn@alum.mit.edu">
-    <img height="30px" title="email" alt="email"
-         src="https://img.shields.io/badge/email-purple"/>
-  </a>
-  <a href="https://www.linkedin.com/in/christianhenn1000/">
-    <img height="30px" title="linkedin" alt="LinkedIn"
-         src="https://img.shields.io/badge/linkedin-purple"/>
-  </a>
-  <a href="https://wellfound.com/u/christian-henn">
-    <img height="30px" title="wellfound" alt="wellfound"
-         src="https://img.shields.io/badge/wellfound-purple"/>
-  </a>
-</p>
+<div align="center">
+  <a href="mailto:chenn@alum.mit.edu"><img src="https://img.shields.io/badge/email-purple" height="30px" title="email" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/christianhenn1000/"><img src="https://img.shields.io/badge/linkedin-purple" height="30px" title="linkedin" alt="LinkedIn"/></a>
+  <a href="https://wellfound.com/u/christian-henn"><img src="https://img.shields.io/badge/wellfound-purple" height="30px" title="wellfound" alt="wellfound"/></a>
+</div>
 
-<p align="center">
-  <picture>
-    <source srcset="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus#gh-dark-mode-only"
-            media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://ghstat.chenn.dev/api/chrishenn?theme=paper&widgets=focus,languages&order=languages,focus#gh-light-mode-only"
-            media="(prefers-color-scheme: light)"/>
-    <img src="https://ghstat.chenn.dev/api/chrishenn"/>
-  </picture>
-</p>
+<div align="center">
+    <img src="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus"/>
+</div>
 
 <div align="center">
   <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pytorch.svg" title="pytorch" alt="pytorch" width="50" height="50"/></a>
@@ -35,7 +20,7 @@
   <a href="https://surrealdb.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/surrealdb.svg" title="surrealdb" alt="surrealdb" width="50" height="50"/></a>
 </div>
 <div align="center">
-  <a href="https://developer.nvidia.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nvidia.svg" title="cuda" alt="cuda" width="50" height="50"/></a>
+  <a href="https://docs.nvidia.com/cuda"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/nvidia.svg" title="cuda" alt="cuda" width="50" height="50"/></a>
   <a href="https://mojolang.org"><img src="https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/692858a5842f89359ac528af_655bb5eeccbf9e75f726083c_fire.png" title="mojo" alt="mojo" width="50" height="50"/></a>
   <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/typescript.svg" title="typscript" alt="typscript" width="50" height="50"/></a>
   <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/python.svg" title="python" alt="python" width="50" height="50"/></a>
@@ -62,3 +47,13 @@
   <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-windows.svg" title="windows" alt="windows" width="50" height="50"/></a>
   <a href="https://apple.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/apple.svg" title="mac" alt="mac" width="50" height="50"/></a>
 </div>
+
+<!--<p align="center">-->
+<!--  <picture>-->
+<!--    <source srcset="https://ghstat.chenn.dev/api/chrishenn?theme=onyx&widgets=focus,languages&order=languages,focus#gh-dark-mode-only"-->
+<!--            media="(prefers-color-scheme: dark)"/>-->
+<!--    <source srcset="https://ghstat.chenn.dev/api/chrishenn?theme=paper&widgets=focus,languages&order=languages,focus#gh-light-mode-only"-->
+<!--            media="(prefers-color-scheme: light)"/>-->
+<!--    <img src="https://ghstat.chenn.dev/api/chrishenn"/>-->
+<!--  </picture>-->
+<!--</p>-->
